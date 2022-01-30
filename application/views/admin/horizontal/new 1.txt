@@ -1,0 +1,5 @@
+<strong>.css("-webkit-border-radius", (canvas.width / 2) * params.curve + "px") .css("-moz-border-radius", (canvas.width / 2) * params.curve + "px") .css("border-radius", (canvas.width / 2) * params.curve + "px");</strong>
+
+
+
+.css("-webkit-border-radius", (80/ 2) * params.curve + "px") .css("-moz-border-radius", (canvas.width / 2) * params.curve + "px") .css("border-radius", (canvas.width / 2) * params.curve + "px");
